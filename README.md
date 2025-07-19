@@ -1,5 +1,5 @@
-# Learnsphere
-# LearnSphere - Empower Your Skills 🚀
+
+# LearnSphere - Empower Your Skills 
 
 **Live Site:** [https://learnspehe.netlify.app](https://learnspehe.netlify.app)
 
